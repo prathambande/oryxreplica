@@ -1,5 +1,5 @@
 pr:
-  -main
+  - main
 
 parameters:
   - name: Subscription
