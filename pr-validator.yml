@@ -1,3 +1,8 @@
+resources:
+  repositories:
+    - repository: self
+      ref: refs/heads/main
+      
 pr:
   - main
 
